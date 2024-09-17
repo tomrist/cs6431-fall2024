@@ -68,7 +68,7 @@ information on due dates.
 
 ### Project
 
-Will be posted  shortly.
+See [description](project.pdf)
 
 ### Schedule
 
